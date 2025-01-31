@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorytos13/challengefinal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dorytos13/challengefinal/issues"
+  },
+  "homepage": "https://github.com/Dorytos13/challengefinal#readme",
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  }
+}
